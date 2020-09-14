@@ -1,0 +1,3 @@
+Hello Guys,
+this dir contains all the exercises that are in my video on youtube.
+Hope you find them useful.
