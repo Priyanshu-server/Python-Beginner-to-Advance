@@ -1,0 +1,6 @@
+f =  open("FileHandlingPart3.txt","r")
+# print(f.readline())
+# print(f.readline())
+# print(f.tell())
+f.seek(30)
+print(f.read(15))
